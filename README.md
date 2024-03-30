@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xjuned10
+- 👋 Hi, I’m Junedali Patel
 - 👀 I’m interested in ...Big data ,data analysis and web development
 - 🌱 I’m currently learning ...computer science 
 - 💞️ I’m looking to collaborate on ...webdeveloping sections
